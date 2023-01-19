@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: "Anek Devanagari", sans-serif;
+  background-color: #28272a;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
